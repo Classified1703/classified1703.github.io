@@ -1,0 +1,10 @@
+{
+  "latestVersionCode": 12,
+  "minSupportedVersionCode": 11,
+  "forceUpdate": false,
+  "showPrompt": true,
+  "title": "Доступно обновление",
+  "message": "Исправили ошибки и ускорили работу приложения",
+  "storeUrl": "https://www.rustore.ru/catalog/app/com.tmkgir.warehouseapp",
+  "promptCooldownHours": 24
+}
