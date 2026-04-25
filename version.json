@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 13,
-  "minSupportedVersionCode": 11,
+  "latestVersionCode": 14,
+  "minSupportedVersionCode": 14,
   "forceUpdate": false,
   "showPrompt": true,
   "title": "Доступно обновление",
